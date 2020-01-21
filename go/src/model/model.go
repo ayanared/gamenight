@@ -11,7 +11,7 @@ type Game struct {
 	ID         string
 	Time       time.Time
 	Name       string
-	BGGlink    string
+	BGGLink    string
 	Location   string
 	MinPlayers int
 	MaxPlayers int
